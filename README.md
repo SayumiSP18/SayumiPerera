@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Sayumi. <br/>
+<h1>👋 Hi, I'm Sayumi...</h2> <br/>
 
 
 

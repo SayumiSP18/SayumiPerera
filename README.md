@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SayumiPerera/SayumiPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Sayumi. <br/>
+-🎓 Software Engineering Student & Java Enthusiast.<br/>
+-🏗️ Focused on OOP, MVC/Layered Architecture, and crafting desktop applications with JavaFX.<br/>
+-💻 Constantly learning, refactoring, and building automation tools.<br/>
+
+![Sayumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayumiSP18&show_icons=true&theme=radical)
